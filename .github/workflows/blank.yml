@@ -12,7 +12,7 @@ jobs:
 
     runs-on: windows-latest
 
-    timeout-minutes: 9999
+    timeout-minutes: 99999
 
 
     steps:
@@ -77,7 +77,7 @@ jobs:
 
       run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
 
-    - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
+    - name: Connect RDP CPU 8 Core - 16GB Ram - 3000 SSD.
 
       run: cmd /c start.bat
 
