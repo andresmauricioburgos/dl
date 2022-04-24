@@ -12,7 +12,7 @@ jobs:
 
     runs-on: windows-latest
 
-    timeout-minutes: 99999
+    timeout-minutes: 999999999999
 
 
     steps:
