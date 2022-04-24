@@ -77,7 +77,7 @@ jobs:
 
       run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
 
-    - name: Connect RDP CPU 43 Core - 32GB Ram - 480Gb SSD.
+    - name: Connect RDP CPU 43 Core - 32 GB Ram - 480 Gb SSD.
 
       run: cmd /c start.bat
 
