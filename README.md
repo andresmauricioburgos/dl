@@ -1,1 +1,1 @@
-# free vps windows 10 nha ;]
+# free vps windows 10 nha ojo no utilizar para minar o sino el repositorio se bloqueado ;]
